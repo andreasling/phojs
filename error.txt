@@ -1,0 +1,2 @@
+[1350826276] [error] [client 0.0.0.0] line 3497: cannot bind to 80: No error
+[1350826306] [error] [client 192.168.0.100] GET /jsexe.appcache: Error 404: Not Found
